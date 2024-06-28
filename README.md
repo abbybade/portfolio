@@ -12,7 +12,8 @@ Data Analysis Intern
   - Donor Data Optimization for Fundraising Success project 
 
 ### Projects 
-Poultry project
- - Donor Data Optimization for Fundraising Success project 
-
+  - Data Mining Project
+  - Global Temperature Analysis
+  - S&P 500 Index Trend Prediction
+  - CIFAR-10 Classifier with ResNet
 
