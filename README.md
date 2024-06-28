@@ -1,4 +1,4 @@
-# Ms Data Science Student at Texas A&M University 
+# M.S. Data Science Student at Texas A&M University 
 
 ### Technical Skills: Python, SQL, MATLAB, MATCAD 
  
@@ -17,7 +17,8 @@ Data Analysis Intern
   - Poultry project
   - Donor Data Optimization for Fundraising Success project
     
-Utilized advanced data analysis methods to identify and segment major donors, resulting in over $20,000 secured in major gifts. Enhanced database accuracy by 10% for a repository of 5,000+ donor records and increased donations by 10-15% through rigorous statistical analysis. Facilitated cross-departmental collaboration to maximize donor engagement and campaign effectiveness.
+#########Utilized advanced data analysis methods to identify and segment major donors, resulting in over $20,000 secured in major gifts. Enhanced database accuracy by 10% for a repository of 5,000+ donor records and increased donations by 10
+15% through rigorous statistical analysis. Facilitated cross-departmental collaboration to maximize donor engagement and campaign effectiveness.
 
 ### Projects 
   - Data Mining Project
