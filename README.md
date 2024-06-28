@@ -7,9 +7,8 @@
 - B.S., Mathematics | Wartburg College (May 2020)
 - B.S., Mathematics | Wartburg College (May 2020)
 
-### Work Experience 
-** Lab Technician @ Integrated DNA Technologies (IDT)
-- Operational Efficiency Enhancement at IDT: Analyzed data to optimize operational metrics like on-time delivery and processing times using SQL and Python. Implementing strategies improved delivery rates and reduced processing times significantly
+### Work Industrial Projects
+**Operational Efficiency Enhancement @ Integrated DNA Technologies:** Analyzed data to optimize operational metrics like on-time delivery and processing times using SQL and Python. Implementing strategies improved delivery rates and reduced processing times significantly
 - project 2!
    
 Data Analysis Intern
@@ -19,7 +18,7 @@ Data Analysis Intern
 #########Utilized advanced data analysis methods to identify and segment major donors, resulting in over $20,000 secured in major gifts. Enhanced database accuracy by 10% for a repository of 5,000+ donor records and increased donations by 10
 15% through rigorous statistical analysis. Facilitated cross-departmental collaboration to maximize donor engagement and campaign effectiveness.
 
-### Projects 
+### Academic Projects
   - Data Mining Project
   - Global Temperature Analysis
   - S&P 500 Index Trend Prediction
