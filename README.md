@@ -8,19 +8,25 @@
 - B.S., Mathematics | Wartburg College (May 2020)
 
 ### Work Industrial Projects
-**Operational Efficiency Enhancement @ Integrated DNA Technologies:** Analyzed data to optimize operational metrics like on-time delivery and processing times using SQL and Python. Implementing strategies improved delivery rates and reduced processing times significantly
-- project 2!
+- **Operational Efficiency Enhancement @ Integrated DNA Technologies:** Analyzed data to optimize operational metrics like on-time delivery and processing times using SQL and Python. Implementing strategies improved delivery rates and reduced processing times significantly
+- More to to come!!! 
    
-Data Analysis Intern
-  - Poultry project
-  - Donor Data Optimization for Fundraising Success project
-    
-#########Utilized advanced data analysis methods to identify and segment major donors, resulting in over $20,000 secured in major gifts. Enhanced database accuracy by 10% for a repository of 5,000+ donor records and increased donations by 10
-15% through rigorous statistical analysis. Facilitated cross-departmental collaboration to maximize donor engagement and campaign effectiveness.
+
+**Poultry project**
+**Donor Data Optimization Impact:** Employed statistical analysis using SQL and Python to identify major donors, securing over $20,000 in gifts, and improved database accuracy by 10%, leading to a 10-15% increase in donations and enhanced cross-departmental collaboration.
 
 ### Academic Projects
   - Data Mining Project
+       - Description: 
+       - link: 
   - Global Temperature Analysis
+       - Description:
+       - link: 
   - S&P 500 Index Trend Prediction
+       - Description:
+       - Link:
   - CIFAR-10 Classifier with ResNet
+       - Description:
+       - Link:
+         
 
