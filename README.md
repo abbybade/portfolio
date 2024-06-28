@@ -8,7 +8,7 @@
 - B.S., Mathematics | Wartburg College (May 2020)
 
 ### Work Experience 
-**Lab Technician @ Integrated DNA Technologies (IDT)
+** Lab Technician @ Integrated DNA Technologies (IDT)
 - Operational Efficiency Enhancement at IDT: Analyzed data to optimize operational metrics like on-time delivery and processing times using SQL and Python. Implementing strategies improved delivery rates and reduced processing times significantly
 - project 2!
    
