@@ -3,7 +3,7 @@
 ### Technical Skills: Python, SQL, MATLAB, MATCAD 
  
 ### Education 
-- M.S., Data Science | Texas A&M University (_Dec 2024 - Expected)
+- M.S., Data Science | Texas A&M University (Dec 2024 - Expected)
 - B.S., Mathematics | Wartburg College (May 2020)
 -  B.S., Mathematics | Wartburg College (May 2020)
 
@@ -15,7 +15,9 @@ Lab Technician @ Integrated DNA Technologies (IDT)
    
 Data Analysis Intern
   - Poultry project
-  - Donor Data Optimization for Fundraising Success project 
+  - Donor Data Optimization for Fundraising Success project
+    
+Utilized advanced data analysis methods to identify and segment major donors, resulting in over $20,000 secured in major gifts. Enhanced database accuracy by 10% for a repository of 5,000+ donor records and increased donations by 10-15% through rigorous statistical analysis. Facilitated cross-departmental collaboration to maximize donor engagement and campaign effectiveness.
 
 ### Projects 
   - Data Mining Project
