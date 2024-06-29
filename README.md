@@ -12,8 +12,11 @@
 - More to to come!!! 
    
 
-**Poultry project:**Conducted a cost-risk analysis using SQL for data acquisition, Python for statistical analysis, and Tableau for dashboard creation. These data-driven insights significantly informed and enhanced humanitarian efforts to combat malnutrition in Nicaragua and Ghana.
-**Donor Data Optimization Impact:** Employed statistical analysis using SQL and Python to identify major donors, securing over $20,000 in gifts, and improved database accuracy by 10%, leading to a 10-15% increase in donations and enhanced cross-departmental collaboration.
+**Poultry project:**
+- Conducted a cost-risk analysis using SQL for data acquisition, Python for statistical analysis, and Tableau for dashboard creation. These data-driven insights significantly informed and enhanced humanitarian efforts to combat malnutrition in Nicaragua and Ghana.
+
+**Donor Data Optimization Impact:** 
+- Employed statistical analysis using SQL and Python to identify major donors, securing over $20,000 in gifts, and improved database accuracy by 10%, leading to a 10-15% increase in donations and enhanced cross-departmental collaboration.
 
 ### Academic Projects
   - Data Mining Project
