@@ -7,12 +7,12 @@
 - B.S., Mathematics | Wartburg College (May 2020)
 - B.S., Mathematics | Wartburg College (May 2020)
 
-### Work Industrial Projects
+### Industrial Projects
 - **Operational Efficiency Enhancement @ Integrated DNA Technologies:** Analyzed data to optimize operational metrics like on-time delivery and processing times using SQL and Python. Implementing strategies improved delivery rates and reduced processing times significantly
 - More to to come!!! 
    
 
-**Poultry project**
+**Poultry project:**Conducted a cost-risk analysis using SQL for data acquisition, Python for statistical analysis, and Tableau for dashboard creation. These data-driven insights significantly informed and enhanced humanitarian efforts to combat malnutrition in Nicaragua and Ghana.
 **Donor Data Optimization Impact:** Employed statistical analysis using SQL and Python to identify major donors, securing over $20,000 in gifts, and improved database accuracy by 10%, leading to a 10-15% increase in donations and enhanced cross-departmental collaboration.
 
 ### Academic Projects
