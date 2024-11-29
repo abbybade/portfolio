@@ -5,7 +5,6 @@
 ### Education
 - M.S., Data Science | Texas A&M University (Dec 2024 - Expected)
 - B.S., Mathematics | Wartburg College (May 2020)
-- B.S., Mathematics | Wartburg College (May 2020)
 
 ### Industrial Projects
 **Operational Efficiency Enhancement @ Integrated DNA Technologies:** 
